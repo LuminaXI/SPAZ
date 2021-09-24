@@ -33,3 +33,6 @@ a multi-purpose discord bot. that includes moderation, fun, and profile commnads
  - ʟᴜɴᴀʀ (その月)#0001 OR ID: 852648016024305724
  - website: [itslunar](https://luminaxi.github.io)
  - if you are [SPAZ](https://www.youtube.com/c/spaz12) no need to credit me :D
+# Bot invite link:
+- [invite spaz to your own server now!](https://discord.com/api/oauth2/authorize?client_id=890648164699373618&permissions=8&scope=bot%20applications.commands)
+- the bot is not fully stable because im still adding commands and altering the code to make it faster! For updates check if there a new fork.
