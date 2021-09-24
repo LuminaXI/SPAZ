@@ -1,7 +1,7 @@
 ![spaz](https://media.discordapp.net/attachments/890317147459444806/890871700525285407/standard_2.gif)
 
 # SPAZ's info
-a multi-purpose discord bot. that includes moderation, fun, economy, and anime commnads!
+a multi-purpose discord bot. that includes moderation, fun, and profile commnads!
 
 # how to install this bot:
 1. [x] clone this repo: `git clone https://github.com/LuminaXI/SPAZ.git`.
