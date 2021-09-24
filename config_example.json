@@ -1,0 +1,4 @@
+{
+    "token": "YOUR_TOKEN",
+    "mongoPath": "MONGO_URI"
+}
